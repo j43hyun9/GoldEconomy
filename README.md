@@ -6,3 +6,7 @@
 
   ## Why GoldEconomy?:
   The economy plugins out there are very well done, but they don't have the features I need, so I created one.
+
+
+  ## License:
+  Those who need it can just write it.
