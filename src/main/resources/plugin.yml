@@ -1,0 +1,8 @@
+name: GoldEconomy
+version: '${project.version}'
+main: com.j43hyun9.goldeconomy1.GoldEconomy
+api-version: '1.20'
+softdepend: [Vault]
+authors: [J43hyun9]
+description: This is Enonomy Plugin
+website: https://github.com/j43hyun9/GoldEconomy.git
